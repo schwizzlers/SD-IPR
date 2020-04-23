@@ -3,7 +3,22 @@ guid: 27ded3ffee98e72458cd8b8bf4f0d768
 ModelImporter:
   serializedVersion: 19300
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: INFINITY_MIRROR_TEXTURE
+    second: {fileID: 2100000, guid: 10cdbe94a7c11dd43b53cb6bf76d8d93, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Infinity_Mirror_Doors
+    second: {fileID: 2100000, guid: 4518a4356e520fc4db14e6ec380e370a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Lower_Cabinet_Doors
+    second: {fileID: 2100000, guid: 4518a4356e520fc4db14e6ec380e370a, type: 2}
   materials:
     materialImportMode: 1
     materialName: 0
