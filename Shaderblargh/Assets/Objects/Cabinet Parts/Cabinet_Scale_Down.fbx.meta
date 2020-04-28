@@ -1,14 +1,17 @@
 fileFormatVersion: 2
-guid: 3bcc6056435b4ca4c8f07348e9e56681
+guid: 9dc93cad21c922e4d878a715136840a1
 ModelImporter:
   serializedVersion: 19300
-  internalIDToNameTable: []
+  internalIDToNameTable:
+  - first:
+      74: 1827226128182048838
+    second: Take 001
   externalObjects:
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: Cabinet
-    second: {fileID: 2100000, guid: b7d7a32c39ac27e4f8df4c852a335a8d, type: 2}
+    second: {fileID: 2100000, guid: ed4f4fa0a7fa0a446ada5cda81b76597, type: 2}
   materials:
     materialImportMode: 1
     materialName: 0

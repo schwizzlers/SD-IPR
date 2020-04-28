@@ -1,9 +1,22 @@
 fileFormatVersion: 2
-guid: 021367e516c8d704f8be1fa327ccbe30
+guid: 300a9e6e994f2ee4ba16c760a4205782
 ModelImporter:
   serializedVersion: 19300
-  internalIDToNameTable: []
-  externalObjects: {}
+  internalIDToNameTable:
+  - first:
+      74: 1827226128182048838
+    second: Take 001
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Drawer_Face_blue
+    second: {fileID: 2100000, guid: cedc9fae098b78c46b5ce06e29ae98e1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Drawers
+    second: {fileID: 2100000, guid: 0ee6cb89667dc104e98d6e42779278d8, type: 2}
   materials:
     materialImportMode: 1
     materialName: 0

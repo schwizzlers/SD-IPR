@@ -1,19 +1,22 @@
 fileFormatVersion: 2
-guid: 27ded3ffee98e72458cd8b8bf4f0d768
+guid: f3136dfe5c1412c489a4d9c963a53aae
 ModelImporter:
   serializedVersion: 19300
-  internalIDToNameTable: []
+  internalIDToNameTable:
+  - first:
+      74: 1827226128182048838
+    second: Take 001
   externalObjects:
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: INFINITY_MIRROR_TEXTURE
-    second: {fileID: 2100000, guid: 10cdbe94a7c11dd43b53cb6bf76d8d93, type: 2}
+    second: {fileID: 2100000, guid: 76d6aabd75fd6774a9d09bec8ef45f73, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: Infinity_Mirror_Doors
-    second: {fileID: 2100000, guid: 4518a4356e520fc4db14e6ec380e370a, type: 2}
+    second: {fileID: 2100000, guid: e40fe24807916394b955da25ac36f077, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule

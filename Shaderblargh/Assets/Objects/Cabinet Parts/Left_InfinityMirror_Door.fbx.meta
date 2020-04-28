@@ -1,24 +1,27 @@
 fileFormatVersion: 2
-guid: 8a88cbbcabed78245b16da11fab3c0c8
+guid: d6c939b9e35f8e544a726f49c8d91c0c
 ModelImporter:
   serializedVersion: 19300
-  internalIDToNameTable: []
+  internalIDToNameTable:
+  - first:
+      74: 1827226128182048838
+    second: Take 001
   externalObjects:
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: INFINITY_MIRROR_TEXTURE
-    second: {fileID: 2100000, guid: 27851efbd05ef6745969ea3ce0e6320a, type: 2}
+    second: {fileID: 2100000, guid: 76d6aabd75fd6774a9d09bec8ef45f73, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: Infinity_Mirror_Doors
-    second: {fileID: 2100000, guid: fbd70c16792910943b2b960a83804353, type: 2}
+    second: {fileID: 2100000, guid: e40fe24807916394b955da25ac36f077, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: Lower_Cabinet_Doors
-    second: {fileID: 2100000, guid: 4518a4356e520fc4db14e6ec380e370a, type: 2}
+    second: {fileID: 2100000, guid: 5749c11ada70f3c4992a43ae48f92918, type: 2}
   materials:
     materialImportMode: 1
     materialName: 0
